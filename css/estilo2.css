@@ -1,0 +1,54 @@
+*{margin: 0; padding: 0;}
+
+#contenedor{
+    width: 80%;
+    max-width: 1200px;
+}
+
+#cabecera{
+    font-size: 1em;
+    margin-bottom: 0.5em;
+}
+
+#logopor{width: 30%;}
+#logoem{width: 22.5em;}
+#logopx{width: 360px;}
+
+
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu li{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    font-size: 1.5em;
+}
+
+#menu li a:hover{
+    color: #000;
+}
+
+#menu li a:visited{
+    color: #ff0000;
+}
+
+#contenido{
+    background: #4db300;
+    border: 2px solid #ff0000;
+    color: #fff;
+    font-size: 2em;
+}
+
+.articulo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    color: #c90000;
+}
+
+.articulo{
+    font-size: 1em;
+}
